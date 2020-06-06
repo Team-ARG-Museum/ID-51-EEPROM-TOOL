@@ -1,2 +1,2 @@
 # ID-51-EEPROM-TOOL
-This repository exists for archival purposes only.
+a small tool to read out the data saved in EEPROM 
